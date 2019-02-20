@@ -1,0 +1,19 @@
+Medibox
+
+DAY 1 (13-02-2019)
+OBJECTIVE:
+
+The main objective of our proposed system is to create a user friendly design that the patients can use as a reminder alert to take their daily medication on time.
+
+
+ABSTRACT:
+
+	The health and wellness sector is critical to human society and as such should be one of the first to receive the benefits of upcoming technologies like IoT. Some of the Internet of Medical Things (IoMT) are connected to IoT networks to
+Monitor the day-to-day activities of the patients. Recently there has been an attempt to design new medical devices which monitor the medications and help aged people for a better assisted living. In this paper, one such attempt is made to design a multipurpose portable intelligent device named MEDIBOX which helps the patients take their medications at the right time. This box is a proficient system which maintains the parameters like temperature and humidity in a controlled range recommended by the drug manufacturer and thus maintains the potency of the medicines even if the patient is travelling. Related to this, we have developed a Host Management System (HMS) which is capable of cloud-based installation and monitoring that stores and controls the MEDIBOX functionality for further analysis and future modification in design aspects. 
+
+
+
+
+Day 2- (15-02-2019) -
+We researched on the components required for our project.We researched on the roles of the components required for our project.
+We came across the basics of Real Time Communication(RTC),buzzers and Ultrasonic sensors.We have created a blog and the link of the blog is https://wordpress.com/block-editor/post/medibox28.home.blog
